@@ -8,13 +8,10 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    var total: Int!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
         NSLog("첫 번째 커밋")
     }
-
-
 }
 
