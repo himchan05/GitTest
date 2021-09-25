@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         NSLog("첫 번째 커밋")
+        NSLog("두 번째 커밋")
     }
 }
 
