@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         NSLog("첫 번째 커밋")
         NSLog("두 번째 커밋")
         NSLog("세 번째 커밋(브랜치 확인)")
+        NSLog("깃허브 푸시")
     }
 }
 
