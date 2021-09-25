@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         NSLog("첫 번째 커밋")
         NSLog("두 번째 커밋")
+        NSLog("세 번째 커밋(브랜치 확인)")
     }
 }
 
